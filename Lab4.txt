@@ -1,0 +1,10 @@
+1.Toplama oyunu:Random olaraq bizə 1-100 arası 2 ədəd gəlir.Və bizdən həmin ədədlərin cəmini soruşur.
+Əgər cəmi düz daxil etmişiksə ekrana "Düzdür"çıxarır və bizdən davam edib etmədiyimizi soruşur.Hər düz cavaba görə 5 xal verilir,
+səhv cavaba görə 2 xal çıxılır.Davam etmək istəmədiyimizdə ekrana Xal,Düzdün cavabların sayı,Səhv cavabların sayını çıxarır.
+
+1)Random klassını araşdırın.
+2)number1,number2,sum,clientSumResult,trueAnswerCount,falseAnswerCount,clientPoint variable-larımız olmalıdır.
+
+
+2.Müştəri tərəfindən daxil edilən maaş və artım faizi vasitəsilə müştərinin 5 il ərzində maaş nəticələrini
+ekrana yazdır.
